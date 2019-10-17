@@ -1,0 +1,28 @@
+{
+  "name": "electronapp",
+  "version": "1.0.0",
+  "description": "electron app",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron-webpack dev",
+    "build": "electron-webpack && electron-builder"
+  },
+  "author": "mahendra sharma",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^6.0.12",
+    "electron-builder": "^21.2.0",
+    "electron-webpack": "^2.7.4",
+    "framework7": "^5.0.4",
+    "framework7-vue": "^5.0.4",
+    "vue": "^2.6.10",
+    "vue-loader": "^15.7.1",
+    "vue-template-compiler": "^2.6.10",
+    "webpack": "^4.41.1"
+  },
+  "dependencies": {
+    "node-notifier": "^6.0.0",
+    "source-map-support": "^0.5.13",
+    "vuex": "^3.1.1"
+  }
+}
