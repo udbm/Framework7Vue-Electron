@@ -10,7 +10,7 @@
   "author": "mahendra sharma",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^6.0.12",
+    "electron": "^9.4.0",
     "electron-builder": "^21.2.0",
     "electron-webpack": "^2.7.4",
     "framework7": "^5.0.4",
