@@ -12,7 +12,7 @@
   "devDependencies": {
     "electron": "^6.0.12",
     "electron-builder": "^21.2.0",
-    "electron-webpack": "^2.7.4",
+    "electron-webpack": "^2.8.2",
     "framework7": "^5.0.4",
     "framework7-vue": "^5.0.4",
     "vue": "^2.6.10",
